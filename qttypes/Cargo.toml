@@ -40,6 +40,8 @@ qtbundledlibpng = []
 qtbundledpcre2 = []
 qtbundledzlib = []
 
+staticruntime = []
+
 default = ["required"]
 
 [dependencies]
